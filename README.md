@@ -1,5 +1,6 @@
 #REST-service
-## The Service is used to get data from the user in URL and a mathematical calculation is performed.
+
+The Service is used to get data from the user in URL and a mathematical calculation is performed.
 
 Input : The Service would take two inputs (e.g., n1,n2) of double datatype.
 Output : Double datatype as output.
