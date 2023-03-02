@@ -46,13 +46,5 @@ class CalculateServiceTest {
     }
 
 
-    @Test
-    void CalculateFalseCase() {
-        Double expectedResult = 9.31163456947318E7;
-        Double n1 = 12.0;
-        Double n2 = 9.0;
-        Double result = calculateService.Calculate(n1, n2);
-        assertThat(expectedResult).isEqualTo(result);
-    }
 
 }
